@@ -1,0 +1,16 @@
+C:\Users\адинточка\Desktop\ARM\ARM\bin\Debug\ARM.exe.config
+C:\Users\адинточка\Desktop\ARM\ARM\bin\Debug\ARM.exe
+C:\Users\адинточка\Desktop\ARM\ARM\bin\Debug\ARM.pdb
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.csprojResolveAssemblyReference.cache
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.FormEntry.resources
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.Properties.Resources.resources
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.csproj.GenerateResource.Cache
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.exe
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.pdb
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.FormAdmin.resources
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.FormGuest.resources
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.FormUserList.resources
+C:\Users\адинточка\Desktop\ARM\ARM\obj\Debug\ARM.FormUser.resources
+C:\Users\адинточка\Desktop\Учеба\БД и СУБД\уч пр\ARM\ARM\bin\Debug\ARM.exe.config
+C:\Users\адинточка\Desktop\Учеба\БД и СУБД\уч пр\ARM\ARM\obj\Debug\ARM.exe
+C:\Users\адинточка\Desktop\Учеба\БД и СУБД\уч пр\ARM\ARM\obj\Debug\ARM.pdb
